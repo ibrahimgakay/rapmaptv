@@ -1,0 +1,9 @@
+sql server
+instance name: GINA/SQLEXPRESS
+sql admins: Gina\GinaEspo
+features installed: SQLENGINE
+version: 14.0.1000.169, RTM
+connection string: Server=localhost\SQLEXPRESS;Database=master;Trusted_Connection=True;
+sql server install log folder: C:\Program Files\Microsoft SQL Server\140\Setup Bootstrap\Log\20210324_231234
+installation media folder: C:\SQLServer2017Media\Express_ENU
+installation resources folder: C:\Program Files\Microsoft SQL Server\140\SSEI\Resources

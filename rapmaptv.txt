@@ -1,0 +1,64 @@
+Rap Map TV
+
+Create Repo
+	Repo link: https://github.com/ibrahimgakay/rapmaptv.git
+	Look into:
+		editing the README
+			https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes
+		gitignore
+			https://docs.github.com/en/github/using-git/ignoring-files
+		adding a license for open source repo
+			https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository
+
+Create Wireframe/Prototype
+	Requirements:
+	Good to haves:
+	
+Frontend:
+	Bootstrap
+	Spring MVC
+	Google Maps API
+	google analytics
+	google tag manager
+
+Backend:
+	Java
+		download latest java
+	Maven
+		download latest maven
+	Youtube API
+	JUnit
+	Swagger API
+
+Database:
+	Hive
+	
+CI/CD
+
+IDE - Eclipse
+
+TODO:
+	create maven project
+		connect it to the db
+		create swagger api
+		create data later to connect to db
+		create mvc
+			on home page
+				return a view
+			when clicking a region on the map,
+				pass region and decade values to data layer
+				get data based on these params
+				return data
+				randomize data order
+				open modal
+				play the videos
+		
+	
+Done:
+	Installed:
+		Eclipse
+		Java
+		Maven
+		MSSMS
+		created db in ssms
+		created spring boot project
